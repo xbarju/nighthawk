@@ -340,5 +340,11 @@
     "lng": "16.607647",
     "title": "Rašínova ulice",
     "desc": "rasinova-ulice.html"
-  }
+  },
+  {
+  "lat": "50.066919",
+  "lng": "14.378425",
+  "title": "Usedlost Božínka",
+  "desc": "usedlost-bozinka.html"
+}
 ]
